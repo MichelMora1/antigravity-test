@@ -28,3 +28,5 @@ Núcleo de Inteligencia: GitHub (Repositorio privado como memoria técnica).
 Fuentes de Contexto (Pendientes): Notion (Bitácora de SIG), Google Drive (Documentación técnica agronómica).
 
 Capa de Acción: Configurada y en pausa (Stop Agent) para optimizar recursos en hardware de origen, interactuando con archivos locales y repositorios remotos.
+---
+Estado previo a consolidación arquitectónica.
