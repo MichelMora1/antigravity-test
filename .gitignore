@@ -1,0 +1,70 @@
+# =========================
+# SISTEMA OPERATIVO
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# PYTHON
+# =========================
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+venv/
+.env/
+
+# =========================
+# NODE
+# =========================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# ENV VARIABLES
+# =========================
+
+.env
+.env.local
+
+# =========================
+# VS CODE
+# =========================
+
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# =========================
+# DATA PESADA
+# =========================
+
+*.csv
+*.parquet
+*.tif
+*.zip
+
+# =========================
+# GPU / MODELOS
+# =========================
+
+*.pt
+*.pth
+*.onnx
+*.ckpt
+
+# =========================
+# LOGS
+# =========================
+
+logs/
+*.log
